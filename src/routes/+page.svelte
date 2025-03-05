@@ -1,9 +1,9 @@
 <div class="dark:bg-slate-900 overflow-auto">
     <div class=" bg-gradient-to-r from-neutral-800 to-pink-600 text-white container mx-auto px-6 py-6 flex items-center justify-between max-w-screen">
-        <h1 class="text-4xl font-extrabold tracking-tight">Heathers Personal Website</h1>
-        <nav class="space-x-4">
-            <a href="#policies" class="hover:text-pink-300 transition-colors text-xl">Policies</a>
-            <a href="#location/contact" class="hover:text-pink-300 transition-colors text-xl">Contact</a>
+        <h1 class="text-4xl font-extrabold tracking-tight">Heathers Website</h1>
+        <nav class="opacity-0 space-x-4 lg:opacity-100">
+            <a href="#policies" class="m-4 hover:text-pink-300 hover:bg-pink-400 transition-colors text-xl bg-slate-400 p-3 rounded-xl">Policies</a>
+            <a href="#location/contact" class="m-4 hover:text-pink-300 hover:bg-pink-400 transition-colors text-xl bg-slate-400 p-3 rounded-xl">Contact</a>
         </nav>
     </div>
     
@@ -100,4 +100,8 @@
             <footer class="mb-4">Please be respectful of my time as I am of yours, contact past 7pm cannot be guaranteed!</footer>
         </section>
     </main>
+</div>
+
+<div class="text-center bg-black text-white">
+    <footer>Made by <a href="https://teejmcsteez.tech/" target="_blank" class="underline italic">Tommy Hall</a></footer>
 </div>
