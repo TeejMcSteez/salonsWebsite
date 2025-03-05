@@ -1,4 +1,7 @@
 <script>
+    import before from '$lib/assets/before.jpg'
+    import after from '$lib/assets/after.jpg'
+
     let showMenu = false;
     
     function toggleNavBar() {
@@ -130,9 +133,25 @@
         <a href="https://forms.gle/HpeYNZTKBB5XhjH56" 
            class="text-xl underline italic hover:animate-pulse">Sign the Release Form</a>
       </section>
+      <!-- Picture Gallery Section -->
+      <section id="pictureParralax" class="relative overflow-hidden">
 
-      <section id="pictureParralax">
-        
+        <div class="h-screen bg-fixed bg-center bg-cover rounded-xl"
+            style="background-image: url({before});"
+        >
+            <div class="font-semibold m-4 text-2xl dark:text-pink-300">
+                Before . . .
+            </div>
+        </div>
+
+        <div class="h-screen bg-fixed bg-center bg-cover rounded-xl"
+            style="background-image: url({after});"
+        >
+            <div class="font-semibold m-4 text-2xl dark:text-pink-300">
+                After!
+            </div>
+        </div>
+
       </section>
       
       <section id="location/contact" class="my-8 p-6 bg-white dark:bg-slate-800 dark:text-gray-100 rounded-lg shadow">
@@ -140,6 +159,7 @@
         <p class="mb-4 text-gray-700 dark:text-gray-200">South City Street, Kings Mountain, North Carolina 28086</p>
         <p class="mb-4 text-lg">maryheathermeltonwork@gmail.com</p>
         <p class="mb-4 text-lg">Phone: 704-692-1792</p>
+        <p class="mb-4 text-lg">Check out my <a href="https://www.instagram.com/maryheathermelton?igsh=OTNiZm1qcDI0dzd3" class="bold italic underline" target="_blank">Instagram</a> for more work!</p>
         <footer class="text-sm">
           Please be respectful of my time; contact after 7pm may not receive a timely response.
         </footer>
