@@ -2,8 +2,8 @@
     <div class=" bg-gradient-to-r from-neutral-800 to-pink-600 text-white container mx-auto px-6 py-6 flex items-center justify-between max-w-screen">
         <h1 class="text-4xl font-extrabold tracking-tight">Heathers Website</h1>
         <nav class="opacity-0 space-x-4 lg:opacity-100">
-            <a href="#policies" class="m-4 hover:text-pink-300 hover:bg-pink-400 transition-colors text-xl bg-slate-400 p-3 rounded-xl">Policies</a>
-            <a href="#location/contact" class="m-4 hover:text-pink-300 hover:bg-pink-400 transition-colors text-xl bg-slate-400 p-3 rounded-xl">Contact</a>
+            <a href="#policies" class="m-4 hover:text-pink-300 hover:bg-pink-400 transition-colors text-xl bg-slate-600 p-3 rounded-xl">Policies</a>
+            <a href="#location/contact" class="m-4 hover:text-pink-300 hover:bg-pink-400 transition-colors text-xl bg-slate-600 p-3 rounded-xl">Contact</a>
         </nav>
     </div>
     
@@ -83,25 +83,25 @@
             <h2 class="text-2xl font-bold mb-4">Policies</h2>
 
             <ul class="list-disc ml-6 mb-6 text-xl">
-                <li>Please no box dye soon before appoiment unless consulted</li>
+                <li>Please no box dye soon before appoiment unless consulted with me beforehand</li>
                 <li>Please tell me if there is prior damage, issues, or any other problem so I can take note before hand and ensure that is properly addressed in your appoiment!</li>
                 <li>While I am flexible with clients in certain situations prices are final and non-negotiable</li>
             </ul>
 
             <p class="text-gray-700 dark:text-gray-200 text-2xl">Please sign the release form below to ensure that you are aware of my policies before booking an appointment for the first time.</p>
-            <a href="https://forms.gle/PH5UyD3apJJFgXVH9" class="text-3xl m-10 underline italic hover:animate-pulse">Please Click Here to Sign the Release Form for First Time Appoitments</a>
+            <a href="https://forms.gle/PH5UyD3apJJFgXVH9" class="text-3xl m-10 underline italic hover:animate-pulse">Click Here to Sign the Release Form for First Time Appointment</a>
         </section>
         
         <section id="location/contact" class="my-12 p-6 bg-white rounded-lg shadow-md dark:bg-slate-800 dark:text-gray-100">
             <h2 class="text-2xl font-bold mb-4">Location & Contact</h2>
             <p class="mb-4 text-gray-700 dark:text-gray-200">South City Street, Kings Mountain, North Carolina 28086</p>
-            <p class="mb-4">someone@gmail.com</p>
-            <p class="mb-4">Phone Number: 911-911-9111</p>
+            <p class="mb-4">maryheathermelton@gmail.com</p>
+            <p class="mb-4">Phone Number: 704-692-1792</p>
             <footer class="mb-4">Please be respectful of my time as I am of yours, contact past 7pm cannot be guaranteed!</footer>
         </section>
     </main>
 </div>
 
 <div class="text-center bg-black text-white">
-    <footer>Made by <a href="https://teejmcsteez.tech/" target="_blank" class="underline italic">Tommy Hall</a></footer>
+    <footer>Made by <a href="https://teejmcsteez.tech/" target="_blank" class="underline italic">Tommy Hall</a> See <a href="https://github.com/TeejMcSteez/salonsWebsite" class="italic underline bold">GitHub</a></footer>
 </div>
