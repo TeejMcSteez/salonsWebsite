@@ -30,6 +30,7 @@
         <nav class="hidden lg:flex space-x-4">
           <a href="#policies" class="px-4 py-2 rounded hover:bg-pink-400 transition">Policies</a>
           <a href="#location/contact" class="px-4 py-2 rounded hover:bg-pink-400 transition">Contact</a>
+          <a href="/works" class="block px-4 py-2 rounded hover:bg-pink-400 transition">Work</a>
         </nav>
       </div>
       <!-- Mobile Navigation -->
@@ -38,6 +39,7 @@
           <div class="container mx-auto px-6 py-2 flex flex-col space-y-2">
             <a href="#policies" class="block px-4 py-2 rounded hover:bg-pink-400 transition">Policies</a>
             <a href="#location/contact" class="block px-4 py-2 rounded hover:bg-pink-400 transition">Contact</a>
+            <a href="/works" class="block px-4 py-2 rounded hover:bg-pink-400 transition">Work</a>
           </div>
         </nav>
       {/if}
