@@ -135,7 +135,7 @@
         <div class="container mx-auto px-4">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div>
-                    <h4 class="text-xl font-bold text-rose-400 mb-4">Beautiful Hair by [Mom's Name]</h4>
+                    <h4 class="text-xl font-bold text-rose-400 mb-4">Beautiful Hair by Heather Melton</h4>
                     <p class="mb-2">South City Street</p>
                     <p class="mb-2">Kings Mountain, NC 28086</p>
                     <p class="mb-2">(704) 692-1792</p>
