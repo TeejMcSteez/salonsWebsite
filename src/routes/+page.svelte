@@ -134,7 +134,7 @@
            class="text-xl underline italic hover:animate-pulse">Sign the Release Form</a>
       </section>
       <!-- Picture Gallery Section -->
-      <section id="pictureParralax" class="relative overflow-hidden">
+      <section id="pictureParralax" class="hidden lg:inline relative overflow-hidden">
 
         <div class="h-screen bg-fixed bg-center bg-cover rounded-xl"
             style="background-image: url({before});"
