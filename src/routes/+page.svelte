@@ -343,7 +343,7 @@
   <div class="container mx-auto px-6">
     <div class="flex flex-col md:flex-row justify-between items-center">
       <div class="mb-6 md:mb-0">
-        <h1 class="text-2xl font-bold">Heather's Salon</h1>
+        <h1 class="text-2xl font-bold text-center">Heather's Salon</h1>
         <p class="text-gray-300 mt-2">Kings Mountain, North Carolina</p>
       </div>
       
