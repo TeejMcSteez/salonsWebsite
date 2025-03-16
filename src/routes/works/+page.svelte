@@ -11,7 +11,7 @@
     let works = [
         { img: work1, category: "coloring", title: "Flowing Curls", description: "Flowing curls with light blonde hair" },
         { img: work2, category: "coloring", title: "Light Blonde", description: "Natural-looking sun-kissed highlights" },
-        { img: work4, category: "styling", title: "Formal Updo", description: "Elegant updo perfect for special occasions" },
+        { img: work4, category: "styling", title: "Color and Style", description: "Perfect color and style with flowing blowout" },
         { img: work6, category: "haircuts", title: "Simple Cut", description: "Layered cut with even ends" },
         { img: work7, category: "coloring", title: "Vibrant Red", description: "Bold and vibrant red color transformation" },
         { img: work8, category: "styling", title: "Simple Cut with Highlights", description: "Elegant cut with highlights" }
