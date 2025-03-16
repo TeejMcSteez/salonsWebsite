@@ -94,17 +94,16 @@
             <div>
               <h4 class="font-semibold text-lg mb-3 text-pink-500 dark:text-pink-400">Men</h4>
               <ul class="space-y-2">
-                <li class="flex justify-between"><span>Hair Cut</span> <span class="font-bold">$20</span></li>
-                <li class="flex justify-between"><span>Beard Trim</span> <span class="font-bold">$10</span></li>
+                <li class="flex justify-between"><span>Hair Cut</span> <span class="font-bold">$20+</span></li>
               </ul>
             </div>
             <div>
               <h4 class="font-semibold text-lg mb-3 text-pink-500 dark:text-pink-400">Women</h4>
               <ul class="space-y-2">
-                <li class="flex justify-between"><span>Dry Cut</span> <span class="font-bold">$30</span></li>
-                <li class="flex justify-between"><span>Shampoo/Cut/Style</span> <span class="font-bold">$35</span></li>
-                <li class="flex justify-between"><span>Shampoo Style</span> <span class="font-bold">$35</span></li>
-                <li class="flex justify-between"><span>Conditioning Treatment</span> <span class="font-bold">$35</span></li>
+                <li class="flex justify-between"><span>Dry Cut</span> <span class="font-bold">$30+</span></li>
+                <li class="flex justify-between"><span>Shampoo/Cut/Style</span> <span class="font-bold">$35+</span></li>
+                <li class="flex justify-between"><span>Shampoo Style</span> <span class="font-bold">$35+</span></li>
+                <li class="flex justify-between"><span>Conditioning Treatment</span> <span class="font-bold">$35+</span></li>
               </ul>
             </div>
           </div>
@@ -122,31 +121,31 @@
           <div class="mb-4">
             <h4 class="font-semibold text-lg mb-3 text-pink-500 dark:text-pink-400">Color</h4>
             <ul class="space-y-2">
-              <li class="flex justify-between"><span>Short Hair</span> <span class="font-bold">$55</span></li>
-              <li class="flex justify-between"><span>Medium Hair</span> <span class="font-bold">$65</span></li>
-              <li class="flex justify-between"><span>Long Hair</span> <span class="font-bold">$85</span></li>
-              <li class="flex justify-between"><span>Conditioning Treatments</span> <span class="font-bold">$35</span></li>
+              <li class="flex justify-between"><span>Short Hair</span> <span class="font-bold">$55+</span></li>
+              <li class="flex justify-between"><span>Medium Hair</span> <span class="font-bold">$65+</span></li>
+              <li class="flex justify-between"><span>Long Hair</span> <span class="font-bold">$85+</span></li>
+              <li class="flex justify-between"><span>Conditioning Treatments</span> <span class="font-bold">$35+</span></li>
             </ul>
           </div>
           
           <div class="mb-4">
             <h4 class="font-semibold text-lg mb-3 text-pink-500 dark:text-pink-400">Foils</h4>
             <ul class="space-y-2">
-              <li class="flex justify-between"><span>Partial: Short</span> <span class="font-bold">$65</span></li>
-              <li class="flex justify-between"><span>Partial: Medium</span> <span class="font-bold">$75</span></li>
-              <li class="flex justify-between"><span>Partial: Long</span> <span class="font-bold">$85</span></li>
-              <li class="flex justify-between"><span>Full: Short</span> <span class="font-bold">$75</span></li>
-              <li class="flex justify-between"><span>Full: Medium</span> <span class="font-bold">$85</span></li>
-              <li class="flex justify-between"><span>Full: Long</span> <span class="font-bold">$95</span></li>
+              <li class="flex justify-between"><span>Partial: Short</span> <span class="font-bold">$65+</span></li>
+              <li class="flex justify-between"><span>Partial: Medium</span> <span class="font-bold">$75+</span></li>
+              <li class="flex justify-between"><span>Partial: Long</span> <span class="font-bold">$85+</span></li>
+              <li class="flex justify-between"><span>Full: Short</span> <span class="font-bold">$75+</span></li>
+              <li class="flex justify-between"><span>Full: Medium</span> <span class="font-bold">$85+</span></li>
+              <li class="flex justify-between"><span>Full: Long</span> <span class="font-bold">$95+</span></li>
             </ul>
           </div>
           
           <div>
             <h4 class="font-semibold text-lg mb-3 text-pink-500 dark:text-pink-400">Toning</h4>
             <ul class="space-y-2">
-              <li class="flex justify-between"><span>Short Hair</span> <span class="font-bold">$25</span></li>
-              <li class="flex justify-between"><span>Medium Hair</span> <span class="font-bold">$35</span></li>
-              <li class="flex justify-between"><span>Long Hair</span> <span class="font-bold">$45</span></li>
+              <li class="flex justify-between"><span>Short Hair</span> <span class="font-bold">$25+</span></li>
+              <li class="flex justify-between"><span>Medium Hair</span> <span class="font-bold">$35+</span></li>
+              <li class="flex justify-between"><span>Long Hair</span> <span class="font-bold">$45+</span></li>
             </ul>
           </div>
         </div>
@@ -231,16 +230,6 @@
           <span class="text-gray-700 dark:text-gray-200">Prices are final and non-negotiable.</span>
         </li>
       </ul>
-      
-      <div class="bg-pink-50 dark:bg-slate-700 p-6 rounded-lg border-l-4 border-pink-500">
-        <p class="text-gray-700 dark:text-gray-200 mb-4">
-          Please sign the release form below to confirm you are aware of my policies before booking your first appointment.
-        </p>
-        <a href="https://forms.gle/HpeYNZTKBB5XhjH56" 
-           class="inline-block bg-pink-600 hover:bg-pink-700 text-white font-bold py-2 px-6 rounded-lg transition-all">
-          Sign the Release Form
-        </a>
-      </div>
     </div>
   </section>
   
