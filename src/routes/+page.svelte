@@ -325,9 +325,10 @@
           </div>
           
           <div class="mt-6">
-            <a href="mailto:maryheathermeltonwork@gmail.com" class="block w-full text-center bg-pink-600 hover:bg-pink-700 text-white font-bold py-3 px-6 rounded-lg transition-all">
+            <!-- <a href="https://heathermelton.as.me/" class="block w-full text-center bg-pink-600 hover:bg-pink-700 text-white font-bold py-3 px-6 rounded-lg transition-all">
               Book Your Appointment
-            </a>
+            </a> -->
+            <a href="https://app.acuityscheduling.com/schedule.php?owner=35091671&ref=booking_button" target="_blank" class="acuity-embed-button" style="background: #000000; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a><link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/35091671.css" id="acuity-button-styles" /><script src="https://embed.acuityscheduling.com/embed/button/35091671.js" async></script>
           </div>
         </div>
       </div>
