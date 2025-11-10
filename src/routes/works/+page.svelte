@@ -111,25 +111,18 @@
             {/each}
         </div>
     </div>
-    
-    <!-- Testimonials section -->
-    <!-- <div class="bg-white py-12 mt-12">
-        <div class="container mx-auto px-4">
-            <h3 class="text-2xl font-semibold text-center mb-10">What My Clients Say</h3>
-            </div>
-        </div> -->
     </div>
     
     <!-- Fullscreen image viewer -->
     {#if selectedImage}
-        <div class="fixed inset-0 bg-black bg-opacity-90 flex items-center justify-center z-20 p-4" on:click={closeImage}>
-            <div class="relative max-w-5xl w-full h-full flex items-center justify-center" on:click|stopPropagation>
+        <div class="fixed inset-0 bg-black bg-opacity-90 flex items-center justify-center z-20 p-4" on:click={closeImage} on:keydown={closeImage} role="button" tabindex="0">
+            <div class="relative max-w-5xl w-full h-full flex items-center justify-center" on:click|stopPropagation on:keydown|stopPropagation role="button" tabindex="0">
                 <img src={selectedImage.img} alt={selectedImage.title} class="max-w-full max-h-full object-contain" />
                 <div class="absolute bottom-0 left-0 right-0 bg-black bg-opacity-70 text-white p-4 text-center">
                     <h3 class="text-xl font-bold">{selectedImage.title}</h3>
                     <p>{selectedImage.description}</p>
                 </div>
-                <button class="absolute top-4 right-4 bg-white text-black w-10 h-10 rounded-full flex items-center justify-center hover:bg-gray-200" on:click={closeImage}>
+                <button class="absolute top-4 right-4 bg-white text-black w-10 h-10 rounded-full flex items-center justify-center hover:bg-gray-200" on:click={closeImage} on:keydown={closeImage} tabindex="0">
                     ✕
                 </button>
             </div>
