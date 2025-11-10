@@ -177,14 +177,14 @@
     
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
       <div class="relative rounded-lg overflow-hidden shadow-lg group">
-        <img src={before} alt="Before transformation" class="w-full h-auto transition-transform duration-500 group-hover:scale-105" />
+        <img src={before} alt="Before transformation" class="w-full h-full transition-transform duration-500 group-hover:scale-105" />
         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
           <span class="text-white font-semibold text-xl">Before</span>
         </div>
       </div>
       
       <div class="relative rounded-lg overflow-hidden shadow-lg group">
-        <img src={after} alt="After transformation" class="w-full h-auto transition-transform duration-500 group-hover:scale-105" />
+        <img src={after} alt="After transformation" class="w-full h-full transition-transform duration-500 group-hover:scale-105" />
         <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
           <span class="text-white font-semibold text-xl">After</span>
         </div>
