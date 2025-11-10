@@ -273,7 +273,7 @@
               </svg>
               <div>
                 <h4 class="font-medium text-gray-700 dark:text-gray-200">Phone</h4>
-                <p class="text-gray-600 dark:text-gray-300">704-692-1792</p>
+                <p class="text-gray-600 dark:text-gray-300">(704) 734-8561</p>
               </div>
             </div>
             
